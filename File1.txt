@@ -1,1 +1,3 @@
 Sample file 1 created.
+
+This file is modified to practice more with git commands.
